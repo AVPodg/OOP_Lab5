@@ -1,0 +1,5 @@
+if(EXISTS "D:/OOP5/build/test_dynamic_array[1]_tests.cmake")
+  include("D:/OOP5/build/test_dynamic_array[1]_tests.cmake")
+else()
+  add_test(test_dynamic_array_NOT_BUILT test_dynamic_array_NOT_BUILT)
+endif()

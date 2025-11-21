@@ -1,0 +1,62 @@
+[
+{
+  "directory": "D:/OOP5/build",
+  "command": "D:\\mingw64\\bin\\c++.exe  @CMakeFiles/dynamic_array_lab.dir/includes_CXX.rsp  -lstdc++fs -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\dynamic_array_lab.dir\\src\\main.cpp.obj -c D:\\OOP5\\src\\main.cpp",
+  "file": "D:/OOP5/src/main.cpp",
+  "output": "CMakeFiles/dynamic_array_lab.dir/src/main.cpp.obj"
+},
+{
+  "directory": "D:/OOP5/build",
+  "command": "D:\\mingw64\\bin\\c++.exe  @CMakeFiles/dynamic_array_lab.dir/includes_CXX.rsp  -lstdc++fs -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\dynamic_array_lab.dir\\src\\memory_resource.cpp.obj -c D:\\OOP5\\src\\memory_resource.cpp",
+  "file": "D:/OOP5/src/memory_resource.cpp",
+  "output": "CMakeFiles/dynamic_array_lab.dir/src/memory_resource.cpp.obj"
+},
+{
+  "directory": "D:/OOP5/build",
+  "command": "D:\\mingw64\\bin\\c++.exe  @CMakeFiles/dynamic_array_lab.dir/includes_CXX.rsp  -lstdc++fs -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\dynamic_array_lab.dir\\src\\dynamic_array.cpp.obj -c D:\\OOP5\\src\\dynamic_array.cpp",
+  "file": "D:/OOP5/src/dynamic_array.cpp",
+  "output": "CMakeFiles/dynamic_array_lab.dir/src/dynamic_array.cpp.obj"
+},
+{
+  "directory": "D:/OOP5/build",
+  "command": "D:\\mingw64\\bin\\c++.exe  @CMakeFiles/test_dynamic_array.dir/includes_CXX.rsp  -lstdc++fs -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\test_dynamic_array.dir\\tests\\test_all.cpp.obj -c D:\\OOP5\\tests\\test_all.cpp",
+  "file": "D:/OOP5/tests/test_all.cpp",
+  "output": "CMakeFiles/test_dynamic_array.dir/tests/test_all.cpp.obj"
+},
+{
+  "directory": "D:/OOP5/build",
+  "command": "D:\\mingw64\\bin\\c++.exe  @CMakeFiles/test_dynamic_array.dir/includes_CXX.rsp  -lstdc++fs -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\test_dynamic_array.dir\\src\\memory_resource.cpp.obj -c D:\\OOP5\\src\\memory_resource.cpp",
+  "file": "D:/OOP5/src/memory_resource.cpp",
+  "output": "CMakeFiles/test_dynamic_array.dir/src/memory_resource.cpp.obj"
+},
+{
+  "directory": "D:/OOP5/build",
+  "command": "D:\\mingw64\\bin\\c++.exe  @CMakeFiles/test_dynamic_array.dir/includes_CXX.rsp  -lstdc++fs -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\test_dynamic_array.dir\\src\\dynamic_array.cpp.obj -c D:\\OOP5\\src\\dynamic_array.cpp",
+  "file": "D:/OOP5/src/dynamic_array.cpp",
+  "output": "CMakeFiles/test_dynamic_array.dir/src/dynamic_array.cpp.obj"
+},
+{
+  "directory": "D:/OOP5/build/_deps/googletest-build/googlemock",
+  "command": "D:\\mingw64\\bin\\c++.exe  @CMakeFiles/gmock.dir/includes_CXX.rsp -std=c++17 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gmock.dir\\src\\gmock-all.cc.obj -c D:\\OOP5\\build\\_deps\\googletest-src\\googlemock\\src\\gmock-all.cc",
+  "file": "D:/OOP5/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj"
+},
+{
+  "directory": "D:/OOP5/build/_deps/googletest-build/googlemock",
+  "command": "D:\\mingw64\\bin\\c++.exe  @CMakeFiles/gmock_main.dir/includes_CXX.rsp -std=c++17 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gmock_main.dir\\src\\gmock_main.cc.obj -c D:\\OOP5\\build\\_deps\\googletest-src\\googlemock\\src\\gmock_main.cc",
+  "file": "D:/OOP5/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj"
+},
+{
+  "directory": "D:/OOP5/build/_deps/googletest-build/googletest",
+  "command": "D:\\mingw64\\bin\\c++.exe  @CMakeFiles/gtest.dir/includes_CXX.rsp -std=c++17 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gtest.dir\\src\\gtest-all.cc.obj -c D:\\OOP5\\build\\_deps\\googletest-src\\googletest\\src\\gtest-all.cc",
+  "file": "D:/OOP5/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj"
+},
+{
+  "directory": "D:/OOP5/build/_deps/googletest-build/googletest",
+  "command": "D:\\mingw64\\bin\\c++.exe  @CMakeFiles/gtest_main.dir/includes_CXX.rsp -std=c++17 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gtest_main.dir\\src\\gtest_main.cc.obj -c D:\\OOP5\\build\\_deps\\googletest-src\\googletest\\src\\gtest_main.cc",
+  "file": "D:/OOP5/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj"
+}
+]
